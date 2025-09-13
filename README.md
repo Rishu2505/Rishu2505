@@ -21,6 +21,18 @@ I specialize in **React Native, TypeScript, Android (Java), iOS, and cross-platf
 
 ### 📌 Featured Projects
 
+#### 🔹 [Adviso AI](https://github.com/Rishu2505/adviso_ai)
+_AdvisoAI is a React Native (Expo) application that helps users discover the best products using AI-powered recommendations and also provides a real-time chat interface with OpenAI, similar to ChatGPT._  
+**Tech:** React Native, Expo, Expo Router, TypeScript, Zustand, OpenAI, Re-Animated, Axios, Lottie
+
+---
+
+#### 🔹 [Vesko](https://github.com/Rishu2505/app_vesko)
+_A modern Expo + React Native (TypeScript) mobile app that showcases a fashion feed with shoes, clothing, and accessories._  
+**Tech:** React Native, Expo, Expo Router, TypeScript, Zustand, OpenAI, Re-Animated, Axios
+
+---
+
 #### 🔹 [Sentient](https://github.com/Rishu2505/Sentient)
 _A sleek, dark-themed React Native app built with Expo — featuring pixel-perfect design, smartly categorized AI agents, and an interactive OpenAI-powered chat experience._  
 **Tech:** React Native, Expo, TypeScript, Zustand, OpenAI API, Re-Animated  
